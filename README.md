@@ -10,6 +10,7 @@ Tareas por realizar:
 -> Preparación de datos. (LISTO)
 
 -> Diseño de la red. (LISTO)
+
   PERO FALTA IMPLEMENTARLO EN PYTORCH.
 
 -> Optimización de hiperparámetros.  
