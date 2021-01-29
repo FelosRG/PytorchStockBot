@@ -5,13 +5,14 @@ Proyecto final:  Inteligencia artificial y aplicaciones en la Física. FC UNAM
 
 Tareas por realizar:
 
--> Dataset
+-> Dataset  (LISTO)
 
--> Preparación de datos.
+-> Preparación de datos. (LISTO)
 
--> Diseño de la red.
+-> Diseño de la red. (LISTO)
+  PERO FALTA IMPLEMENTARLO EN PYTORCH.
 
--> Optimización de hiperparámetros.
+-> Optimización de hiperparámetros.  
 
 -> test.
 
